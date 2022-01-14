@@ -1,0 +1,61 @@
+Agent places tobacco on the table
+Agent places match on the table.
+Paper smoker picks up tobacco from the table.
+Paper smoker picks up matches from the table.
+Paper smoker makes a cigarette and goes to sleep.
+
+Agent places tobacco on the table
+Agent places match on the table.
+Paper smoker picks up tobacco from the table.
+Paper smoker picks up matches from the table.
+Paper smoker makes a cigarette and goes to sleep.
+
+Agent places match on the table.
+Agent places paper on the table.
+Tobacco smoker picks up matches from the table.
+Tobacco smoker picks up paper from the table.
+Tobacco smoker makes a cigarette and goes to sleep.
+
+Agent places match on the table.
+Agent places paper on the table.
+Tobacco smoker picks up matches from the table.
+Tobacco smoker picks up paper from the table.
+Tobacco smoker makes a cigarette and goes to sleep.
+
+Agent places tobacco on the table
+Agent places match on the table.
+Paper smoker picks up tobacco from the table.
+Paper smoker picks up matches from the table.
+Paper smoker makes a cigarette and goes to sleep.
+
+Agent places match on the table.
+Agent places paper on the table.
+Tobacco smoker picks up matches from the table.
+Tobacco smoker picks up paper from the table.
+Tobacco smoker makes a cigarette and goes to sleep.
+
+Agent places tobacco on the table
+Agent places paper on the table.
+Matches smoker picks up tobacco from the table.
+Matches smoker picks up paper from the table.
+Matches smoker makes a cigarette and goes to sleep.
+
+Agent places match on the table.
+Agent places paper on the table.
+Tobacco smoker picks up matches from the table.
+Tobacco smoker picks up paper from the table.
+Tobacco smoker makes a cigarette and goes to sleep.
+
+Agent places match on the table.
+Agent places paper on the table.
+Tobacco smoker picks up matches from the table.
+Tobacco smoker picks up paper from the table.
+Tobacco smoker makes a cigarette and goes to sleep.
+
+Agent places tobacco on the table
+Agent places match on the table.
+Paper smoker picks up tobacco from the table.
+Paper smoker picks up matches from the table.
+Paper smoker makes a cigarette and goes to sleep.
+
+Process with pid = 55227 exited with the status 0. 

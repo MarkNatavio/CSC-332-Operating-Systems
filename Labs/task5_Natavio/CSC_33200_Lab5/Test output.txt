@@ -1,0 +1,135 @@
+Dad's Pid: 38438
+Dad is requesting to view the balance.
+Dad reads balance = 100 
+Dad needs 2 sec to prepare money
+First Son's Pid: 38439
+SON_1 is requesting to view the balance.
+Second Son's Pid: 38440
+Attempt remaining: 20.
+SON_1 reads balance. Available Balance: 100 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 80 
+Number of attempts remaining:19 
+SON_2 is requesting to view the balance.
+Attempt remaining: 19.
+SON_2 reads balance. Available Balance: 80 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 60 
+Number of attempts remaining: 18 
+Dad writes new balance = 120 
+Dad will deposit 4 more time
+SON_1 is requesting to view the balance.
+Attempt remaining: 18.
+SON_1 reads balance. Available Balance: 120 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 100 
+Number of attempts remaining:17 
+SON_2 is requesting to view the balance.
+Attempt remaining: 17.
+SON_2 reads balance. Available Balance: 100 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 80 
+Number of attempts remaining: 16 
+Dad is requesting to view the balance.
+Dad reads balance = 80 
+Dad needs 3 sec to prepare money
+Dad writes new balance = 140 
+Dad will deposit 3 more time
+SON_1 is requesting to view the balance.
+Attempt remaining: 16.
+SON_1 reads balance. Available Balance: 140 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 120 
+Number of attempts remaining:15 
+SON_2 is requesting to view the balance.
+Attempt remaining: 15.
+SON_2 reads balance. Available Balance: 120 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 100 
+Number of attempts remaining: 14 
+Dad is requesting to view the balance.
+Dad reads balance = 100 
+Dad needs 4 sec to prepare money
+SON_1 is requesting to view the balance.
+Attempt remaining: 14.
+SON_1 reads balance. Available Balance: 100 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 80 
+Number of attempts remaining:13 
+SON_2 is requesting to view the balance.
+Attempt remaining: 13.
+SON_2 reads balance. Available Balance: 80 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 60 
+Number of attempts remaining: 12 
+Dad writes new balance = 120 
+Dad will deposit 2 more time
+SON_2 is requesting to view the balance.
+Attempt remaining: 12.
+SON_2 reads balance. Available Balance: 120 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 100 
+Number of attempts remaining: 11 
+SON_1 is requesting to view the balance.
+Attempt remaining: 11.
+SON_1 reads balance. Available Balance: 100 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 80 
+Number of attempts remaining:10 
+Dad is requesting to view the balance.
+Dad reads balance = 80 
+Dad needs 3 sec to prepare money
+Dad writes new balance = 140 
+Dad will deposit 1 more time
+SON_2 is requesting to view the balance.
+Attempt remaining: 10.
+SON_2 reads balance. Available Balance: 140 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 120 
+Number of attempts remaining: 9 
+SON_1 is requesting to view the balance.
+Attempt remaining: 9.
+SON_1 reads balance. Available Balance: 120 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 100 
+Number of attempts remaining:8 
+Dad is requesting to view the balance.
+Dad reads balance = 100 
+Dad needs 2 sec to prepare money
+Dad writes new balance = 160 
+Dad will deposit 0 more time
+child(pid = 38438) exited with the status 0. 
+SON_2 is requesting to view the balance.
+Attempt remaining: 8.
+SON_2 reads balance. Available Balance: 160 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 140 
+Number of attempts remaining: 7 
+SON_1 is requesting to view the balance.
+Attempt remaining: 7.
+SON_1 reads balance. Available Balance: 140 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 120 
+Number of attempts remaining:6 
+SON_2 is requesting to view the balance.
+Attempt remaining: 6.
+SON_2 reads balance. Available Balance: 120 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 100 
+Number of attempts remaining: 5 
+SON_1 is requesting to view the balance.
+Attempt remaining: 5.
+SON_1 reads balance. Available Balance: 100 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 80 
+Number of attempts remaining:4 
+SON_2 is requesting to view the balance.
+Attempt remaining: 4.
+SON_2 reads balance. Available Balance: 80 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 60 
+Number of attempts remaining: 3 
+SON_1 is requesting to view the balance.
+Attempt remaining: 3.
+SON_1 reads balance. Available Balance: 60 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 40 
+Number of attempts remaining:2 
+SON_2 is requesting to view the balance.
+Attempt remaining: 2.
+SON_2 reads balance. Available Balance: 40 
+SON_2 wants to withdraw money. SON_2 withdrawed 20. New Balance: 20 
+Number of attempts remaining: 1 
+SON_1 is requesting to view the balance.
+Attempt remaining: 1.
+SON_1 reads balance. Available Balance: 20 
+SON_1 wants to withdraw money. SON_1 withdrawed 20. New Balance: 0 
+Number of attempts remaining:0 
+SON_2 is requesting to view the balance.
+Attempt remaining: 0.
+SON_1 is requesting to view the balance.
+Attempt remaining: 0.
+child(pid = 38440) exited with the status 0. 
+child(pid = 38439) exited with the status 0. 
